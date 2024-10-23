@@ -1,8 +1,9 @@
 # EX14 - HASH ALGORITHM
 ## AIM :
 To generate a simple hash of a given message using a custom hash function.
-
-## DESIGN STEPS :
+## THEORM :
+A hash algorithm is a mathematical function that transforms input data into a fixed-size string of characters, which typically appears random. This output, known as a hash value, serves as a unique identifier for the original data. Hash algorithms are widely used in data integrity verification, digital signatures, and password storage.
+## ALGORITHM :
 ### STEP 1 : 
 Input a message from the user.
 
