@@ -1,21 +1,21 @@
-# EX14 - Implement-Hash-Function
+# EX14 - HASH ALGORITHM
 ## AIM :
 To generate a simple hash of a given message using a custom hash function.
 
 ## DESIGN STEPS :
-### Step 1 : 
+### STEP 1 : 
 Input a message from the user.
 
-### Step 2 : 
+### STEP 2 : 
 Use a basic custom hash function that applies simple operations like XOR and addition on the characters of the message.
 
-### Step 3 : 
+### STEP 3 : 
 Convert the resulting hash into a hexadecimal format.
 
-### Step 4 : 
+### STEP 4 : 
 Display the computed hash to the user.
 
-### Step 5 :
+### STEP 5 :
 Optionally verify the hash by recomputing it and comparing it with a received hash.
 
 ## PROGRAM :
@@ -62,4 +62,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/7e2672c6-6874-4466-a35a-c63a12b46be2)
 
 ## RESULT :
-The program for generating and verifying a simple hash of a given message using a custom hash function was executed successfully. The computed hash ensures basic integrity of the message.
+The program for generating and verifying a simple hash of a given message using a custom hash function was executed successfully.
